@@ -1,0 +1,5 @@
+int8 mode
+string image_path
+---
+uucar_interfaces/FaceResults result
+bool success
